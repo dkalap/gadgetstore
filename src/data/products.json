@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Ergonomic Mouse",
+    "price": 1499.00,
+    "category": "Accessories",
+    "rating": 4.8,
+    "stock": 12,
+    "image": "https://images.pexels.com/photos/7151692/pexels-photo-7151692.jpeg",
+    "description": "Comfortable wireless mouse with smooth tracking and silent clicking."
+  },
+  {
+    "id": 2,
+    "name": "Aluminum Phone Stand",
+    "price": 1299.00,
+    "category": "Accessories",
+    "rating": 4.9,
+    "stock": 7,
+    "image": "https://images.pexels.com/photos/14770615/pexels-photo-14770615.jpeg",
+    "description": "Premium CNC-machined aluminum desktop stand featuring a 360-degree rotating base, dual-axis folding adjustment, and anti-slip silicone rubber pads to securely hold smartphones and tablets."
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Gaming Keyboard",
+    "price": 4999.00,
+    "category": "Accessories",
+    "rating": 4.9,
+    "stock": 2,
+    "image": "https://images.pexels.com/photos/7915219/pexels-photo-7915219.jpeg",
+    "description": "High-performance mechanical gaming keyboard featuring responsive tactile switches, vibrant customizable RGB backlighting, and an ergonomic anti-slip design built for intense gaming and professional typing."
+  },
+  {
+    "id": 4,
+    "name": "Extended Desk Mouse Pad",
+    "price": 999.00,
+    "category": "Accessories",
+    "rating": 4.7,
+    "stock": 19,
+    "image": "https://images.pexels.com/photos/7265926/pexels-photo-7265926.jpeg",
+    "description": "Smooth waterproof micro-fiber surface desk mat with stitched edges."
+  },
+  {
+    "id": 5,
+    "name": "Vertical Wireless Mouse",
+    "price": 2499.00,
+    "category": "Accessories",
+    "rating": 4.6,
+    "stock": 8,
+    "image": "https://images.pexels.com/photos/7172686/pexels-photo-7172686.jpeg",
+    "description": "Scientifically engineered wrist-health vertical mouse to reduce muscle strain."
+  },
+  {
+    "id": 6,
+    "name": "Multi-Port USB-C Hub",
+    "price": 2899.00,
+    "category": "Adapters",
+    "rating": 4.6,
+    "stock": 30,
+    "image": "https://images.pexels.com/photos/7742583/pexels-photo-7742583.jpeg",
+    "description": "Expand your laptop ports with HDMI, USB 3.0, and fast power delivery."
+  },
+  {
+    "id": 7,
+    "name": "HDMI to USB-C Video Adapter",
+    "price": 1699.00,
+    "category": "Adapters",
+    "rating": 4.4,
+    "stock": 22,
+    "image": "https://images.pexels.com/photos/7952599/pexels-photo-7952599.jpeg",
+    "description": "High-speed 4K video converter cable for seamless monitor connection."
+  },
+  {
+    "id": 8,
+    "name": "Ethernet LAN Gigabit Adapter",
+    "price": 1299.00,
+    "category": "Adapters",
+    "rating": 4.5,
+    "stock": 4,
+    "image": "https://images.pexels.com/photos/3921696/pexels-photo-3921696.jpeg",
+    "description": "USB-A/C to RJ45 wired internet network adapter for stable gaming and work."
+  },
+  {
+    "id": 9,
+    "name": "Travel Universal Power Adapter",
+    "price": 2199.00,
+    "category": "Adapters",
+    "rating": 4.8,
+    "stock": 0,
+    "image": "https://images.pexels.com/photos/3639031/pexels-photo-3639031.jpeg",
+    "description": "All-in-one international wall plug adapter with dual USB fast charging ports."
+  },
+  {
+    "id": 10,
+    "name": "Thunderbolt 4 Splitter Adapter",
+    "price": 3499.00,
+    "category": "Adapters",
+    "rating": 4.7,
+    "stock": 6,
+    "image": "https://images.pexels.com/photos/4195404/pexels-photo-4195404.jpeg",
+    "description": "Ultra-fast data transfer splitter with dual display support capabilities."
+  },
+  {
+    "id": 11,
+    "name": "LED Desk Lamp with USB Port",
+    "price": 2499.00,
+    "category": "Lighting",
+    "rating": 4.7,
+    "stock": 5,
+    "image": "https://images.pexels.com/photos/1714204/pexels-photo-1714204.jpeg",
+    "description": "Adjustable brightness levels and color temperatures with a built-in charging port."
+  },
+  {
+    "id": 12,
+    "name": "Monitor Light Bar",
+    "price": 3899.00,
+    "category": "Lighting",
+    "rating": 4.9,
+    "stock": 5,
+    "image": "https://images.pexels.com/photos/17784701/pexels-photo-17784701.jpeg",
+    "description": "Screen glare-free hanging LED lamp for desk eye-care illumination."
+  },
+  {
+    "id": 13,
+    "name": "RGB Ambient LED Strip Lights",
+    "price": 1599.00,
+    "category": "Lighting",
+    "rating": 4.3,
+    "stock": 0,
+    "image": "https://images.pexels.com/photos/13071304/pexels-photo-13071304.jpeg",
+    "description": "App and remote-controlled color-changing LED backlights for monitors and desks."
+  },
+  {
+    "id": 14,
+    "name": "Rechargeable Clip-On Reading Light",
+    "price": 1199.00,
+    "category": "Lighting",
+    "rating": 4.6,
+    "stock": 11,
+    "image": "https://images.pexels.com/photos/30865841/pexels-photo-30865841.jpeg",
+    "description": "Flexible portable book and laptop lamp with 3 brightness modes."
+  },
+  {
+    "id": 15,
+    "name": "Smart Touch Bedside Tech Lamp",
+    "price": 2899.00,
+    "category": "Lighting",
+    "rating": 4.8,
+    "stock": 10,
+    "image": "https://images.pexels.com/photos/6598226/pexels-photo-6598226.jpeg",
+    "description": "Dimmable bedside atmosphere light with warm and cool tone spectrum settings."
+  },
+  {
+    "id": 16,
+    "name": "Portable Bluetooth Speaker",
+    "price": 3499.00,
+    "category": "Audio",
+    "rating": 4.5,
+    "stock": 2,
+    "image": "https://images.pexels.com/photos/374753/pexels-photo-374753.jpeg",
+    "description": "Compact waterproof speaker delivering crisp sound and deep bass."
+  },
+  {
+    "id": 17,
+    "name": "Active Noise Cancelling Earbuds",
+    "price": 5999.00,
+    "category": "Audio",
+    "rating": 4.8,
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
+    "description": "True wireless Bluetooth earbuds with immersive sound and clear mic calls."
+  },
+  {
+    "id": 18,
+    "name": "Over-Ear Studio Headphones",
+    "price": 6999.00,
+    "category": "Audio",
+    "rating": 4.7,
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "description": "High-fidelity wired/wireless headphones with ultra-soft memory foam ear cushions."
+  },
+  {
+    "id": 19,
+    "name": "USB Desktop Podcast Microphone",
+    "price": 4299.00,
+    "category": "Audio",
+    "rating": 4.6,
+    "stock": 17,
+    "image": "https://images.pexels.com/photos/16530090/pexels-photo-16530090.jpeg",
+    "description": "Plug-and-play condenser mic with mute button and tripod stand for streaming."
+  },
+  {
+    "id": 20,
+    "name": "Neckband Wireless Sport Earphones",
+    "price": 2299.00,
+    "category": "Audio",
+    "rating": 4.4,
+    "stock": 82,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&q=80",
+    "description": "Flexible ergonomic neckband headphones with magnetic earbuds and long battery life."
+  },
+  {
+    "id": 21,
+    "name": "Webcam Privacy Cover (3-Pack)",
+    "price": 499.00,
+    "category": "Privacy",
+    "rating": 4.4,
+    "stock": 43,
+    "image": "https://images.pexels.com/photos/28117882/pexels-photo-28117882.jpeg",
+    "description": "Ultra-thin slide covers to protect your laptop and tablet webcam privacy."
+  },
+  {
+    "id": 22,
+    "name": "RFID Blocking Card Holder",
+    "price": 1299.00,
+    "category": "Privacy",
+    "rating": 4.8,
+    "stock": 29,
+    "image": "https://images.pexels.com/photos/14402073/pexels-photo-14402073.jpeg",
+    "description": "Slim metal wallet with secure scanning protection for credit cards and IDs."
+  },
+  {
+    "id": 23,
+    "name": "Camera Lens Cover Slider",
+    "price": 799.00,
+    "category": "Privacy",
+    "rating": 4.5,
+    "stock": 28,
+    "image": "https://images.pexels.com/photos/6054476/pexels-photo-6054476.jpeg",
+    "description": "Universal adhesive lens blockers designed for smartphones, tablets, and laptops."
+  },
+  {
+    "id": 24,
+    "name": "Data Blocker USB Defender",
+    "price": 999.00,
+    "category": "Privacy",
+    "rating": 4.7,
+    "stock": 6,
+    "image": "https://images.pexels.com/photos/20123833/pexels-photo-20123833.jpeg",
+    "description": "USB juice-jacking protector that blocks data transfer while allowing safe power charging in public stations."
+  },
+  {
+    "id": 25,
+    "name": "Biometric USB Security Key",
+    "price": 2999.00,
+    "category": "Privacy",
+    "rating": 4.9,
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1702141556608-de60b5a61a5f?q=80&w=1334&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "description": "Hardware authentication token with fingerprint sensor for ultra-secure account logins."
+  }
+]
