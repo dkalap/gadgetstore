@@ -30,7 +30,7 @@ To run this project locally on your machine, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/dkalap/gadgetstore.git](https://github.com/dkalap/gadgetstore.git)
+git clone https://github.com/dkalap/gadgetstore.git
 cd gadgetstore
 
 ```
