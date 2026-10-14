@@ -128,7 +128,7 @@ export default function App() {
         if (item.id === productId) {
           const newQty = item.quantity + delta;
 
-          // 2. Check if new quantity exceeds stock limit
+          // Check if new quantity exceeds stock limit
           if (product && newQty > product.stock) {
             showToast(`Only ${product.stock} left in stock!`);
             return item; // Keep quantity unchanged if stock limit hit
@@ -175,7 +175,7 @@ export default function App() {
   const handleMoveToCart = (item) => {
     handleAddToCart(item); // Adds item to cart & triggers cart action
     setWishlist((prev) => prev.filter((id) => id !== item.id)); // Silently removes its ID from wishlist without the removal toast
-    showToast(`Moved "${item.name}" to cart 🛒`); // Shows your clean custom notification
+    showToast(`Moved "${item.name}" to cart 🛒`);
   };
   if (isLoading) {
     return (
@@ -264,17 +264,17 @@ export default function App() {
           setSelectedProduct(product);
         }}
         onCheckout={(subtotal, discount, total) => {
-          // 1. Save the receipt details before clearing
+          // Save the receipt details before clearing
           setLastOrderDetails({
             items: [...cart],
             subtotal,
             discount,
             total,
           });
-          // 2. Close cart drawer & open receipt modal
+          //Close cart drawer & open receipt modal
           setIsCartOpen(false);
           setIsCheckoutOpen(true);
-          // 3. Clear cart & show toast
+          // Clear cart & show toast
           setCart([]);
           showToast("🎉 Order placed successfully!");
         }}

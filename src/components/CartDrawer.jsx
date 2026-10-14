@@ -11,7 +11,7 @@ export default function CartDrawer({
   onCheckout,
   darkMode,
 }) {
-  // 1. Coupon and Discount States
+  // Coupon and Discount States
   const [couponInput, setCouponInput] = useState("");
   const [discountPercent, setDiscountPercent] = useState(0);
   const [couponError, setCouponError] = useState("");
@@ -19,7 +19,7 @@ export default function CartDrawer({
 
   if (!isOpen) return null;
 
-  // 2. Coupon Validation Handler
+  // Coupon Validation Handler
   const handleApplyCoupon = () => {
     const code = couponInput.trim().toUpperCase();
     if (code === "REACT20") {
@@ -36,7 +36,7 @@ export default function CartDrawer({
     }
   };
 
-  // 3. Price Calculations
+  // Price Calculations
   const rawSubtotal = cart.reduce(
     (sum, item) => sum + item.price * item.quantity,
     0,
